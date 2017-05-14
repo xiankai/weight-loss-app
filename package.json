@@ -5,7 +5,8 @@
   "author": null,
   "main": "main.js",
   "scripts": {
-    "test": "node node_modules/jest/bin/jest.js"
+    "test": "node node_modules/jest/bin/jest.js",
+    "android": "exp start -a --tunnel"
   },
   "jest": {
     "preset": "jest-expo"
