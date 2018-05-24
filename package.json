@@ -14,7 +14,7 @@
   "dependencies": {
     "@expo/ex-navigation": "~2.10.0",
     "@expo/samples": "~1.0.3",
-    "expo": "16.0.0",
+    "expo": "27.0.2",
     "mobx": "^3.1.16",
     "mobx-react": "^4.2.1",
     "react": "16.0.0-alpha.6",
